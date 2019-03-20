@@ -1,3 +1,17 @@
+---
+topic: sample
+products:
+- Office 365
+languages:
+- Swift
+extensions:
+  contentType: sdks
+  technologies:
+  - Office UI Fabric
+  platforms:
+  - iOS
+  createdDate: 3/2/2016 2:03:07 PM
+---
 # [Office UI Fabric iOS Core](http://dev.office.com/fabric)
 
 ##### The iOS UI framework for building experiences for Office and Office 365.
